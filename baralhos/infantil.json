@@ -1,0 +1,42 @@
+[
+  {
+    "texto": "Imite um animal",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Pule como um sapo 5 vezes",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Cante uma música infantil",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Faça uma careta engraçada",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Todos devem dançar até a próxima carta especial",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Conte uma piada",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Fale como um robô",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Todos batem palmas",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Desenhe um animal de olhos fechados",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Faça uma mímica para os outros adivinharem",
+    "tipo": "comum"
+  }
+]

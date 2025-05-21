@@ -1,0 +1,42 @@
+[
+  {
+    "texto": "Tire uma peça de roupa",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Beije o pescoço do parceiro por 30 segundos",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Faça uma massagem por 2 minutos",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Descreva uma fantasia sua",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Todos tiram uma peça de roupa",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Apague as luzes até a próxima carta especial",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Escolha alguém para tirar uma peça de roupa",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Conte uma experiência íntima",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Faça um elogio íntimo ao parceiro",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Beije onde o parceiro escolher",
+    "tipo": "comum"
+  }
+]

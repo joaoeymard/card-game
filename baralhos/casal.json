@@ -1,0 +1,42 @@
+[
+  {
+    "texto": "Diga o que mais gosta no seu parceiro",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Conte como foi o primeiro encontro",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Dê um elogio sincero",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual foi o momento mais feliz do relacionamento?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Troquem uma massagem até a próxima carta especial",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Conte um sonho para o futuro do casal",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Dê um beijo carinhoso",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Façam um brinde ao relacionamento",
+    "tipo": "especial"
+  },
+  {
+    "texto": "O que você mais admira no seu parceiro?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual foi a viagem mais memorável que fizeram juntos?",
+    "tipo": "comum"
+  }
+]

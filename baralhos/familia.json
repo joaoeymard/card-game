@@ -1,0 +1,42 @@
+[
+  {
+    "texto": "Conte uma história da família",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual sua memória favorita de infância?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Dê um abraço em alguém",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Faça um elogio para cada pessoa",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Todos devem contar uma qualidade da família",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Qual tradição familiar você mais gosta?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Conte uma piada",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Tirem uma foto juntos",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Qual é o seu prato favorito da família?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Conte uma história engraçada sobre alguém da família",
+    "tipo": "comum"
+  }
+]

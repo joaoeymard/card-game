@@ -1,0 +1,42 @@
+[
+  {
+    "texto": "Conte algo sobre você que ninguém sabe",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual seu maior sonho?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Se pudesse viajar para qualquer lugar, onde seria?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual sua comida favorita?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Todos devem contar uma curiosidade sobre si",
+    "tipo": "especial"
+  },
+  {
+    "texto": "Qual seu filme favorito?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Conte uma história engraçada da sua infância",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual seu maior medo?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Se pudesse ter um superpoder, qual seria?",
+    "tipo": "comum"
+  },
+  {
+    "texto": "Qual foi a coisa mais corajosa que você já fez?",
+    "tipo": "comum"
+  }
+]

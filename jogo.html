@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo de Cartas</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container game-container">
+    <header class="game-header">
+      <h1 id="deck-title">Carregando...</h1>
+      <a href="index.html" class="back-button">Voltar</a>
+    </header>
+    
+    <main class="game-area">
+      <div class="card-container">
+        <div class="card" id="current-card">
+          <div class="card-inner">
+            <div class="card-front">
+              <div class="card-pattern"></div>
+            </div>
+            <div class="card-back">
+              <p id="card-text">Clique para revelar</p>
+              <div class="card-type" id="card-type"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="game-controls">
+        <button id="next-card" class="button">Próxima carta</button>
+      </div>
+      
+      <div id="game-end" class="game-end hidden">
+        <h2>Fim do jogo!</h2>
+        <p>Você completou todas as cartas deste baralho.</p>
+        <div class="end-buttons">
+          <button id="play-again" class="button">Jogar novamente</button>
+          <a href="index.html" class="button secondary">Escolher outro baralho</a>
+        </div>
+      </div>
+    </main>
+  </div>
+  
+  <script src="js/jogo.js"></script>
+</body>
+</html>
