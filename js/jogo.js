@@ -101,27 +101,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function nextCard() {
     if (!isCardFlipped) {
-      flipCard()
-      return
+        flipCard();
+        return;
     }
 
-    currentCardIndex++
+    currentCardIndex++;
 
+    // Reiniciar o índice e embaralhar o baralho ao alcançar o fim
     if (currentCardIndex >= currentDeck.length) {
-      showGameEnd()
-      return
+        currentCardIndex = 0;
+        currentDeck = shuffleArray(currentDeck);
     }
 
     // Resetar a carta
-    cardElement.classList.remove("flipped")
-    isCardFlipped = false
+    cardElement.classList.remove("flipped");
+    isCardFlipped = false;
 
     // Pequeno atraso para garantir que a animação seja visível
     setTimeout(() => {
-      cardTextElement.textContent = "Clique para revelar"
-      cardTypeElement.textContent = ""
-      cardTypeElement.className = "card-type"
-    }, 250)
+        cardTextElement.textContent = "Clique para revelar";
+        cardTypeElement.textContent = "";
+        cardTypeElement.className = "card-type";
+    }, 250);
   }
 
   function showGameEnd() {
