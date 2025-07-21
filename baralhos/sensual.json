@@ -1,42 +1,98 @@
 [
-  {
-    "texto": "Tire uma peça de roupa",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Beije o pescoço do parceiro por 30 segundos",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Faça uma massagem por 2 minutos",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Descreva uma fantasia sua",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Todos tiram uma peça de roupa",
-    "tipo": "especial"
-  },
-  {
-    "texto": "Apague as luzes até a próxima carta especial",
-    "tipo": "especial"
-  },
-  {
-    "texto": "Escolha alguém para tirar uma peça de roupa",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Conte uma experiência íntima",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Faça um elogio íntimo ao parceiro",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Beije onde o parceiro escolher",
-    "tipo": "comum"
-  }
+  { "texto": "Sussurre algo provocante no ouvido do parceiro", "tipo": "comum" },
+  { "texto": "Toque suavemente o corpo do parceiro por 1 minuto", "tipo": "comum" },
+  { "texto": "Simule uma dança sensual", "tipo": "comum" },
+  { "texto": "Beije lentamente os lábios do parceiro", "tipo": "comum" },
+  { "texto": "Escolha alguém para receber uma massagem", "tipo": "comum" },
+  { "texto": "Fale algo que sempre quis fazer na cama", "tipo": "comum" },
+  { "texto": "Passe os dedos pelo corpo do parceiro", "tipo": "comum" },
+  { "texto": "Faça um carinho ousado por 30 segundos", "tipo": "comum" },
+  { "texto": "Lamba devagar o lóbulo da orelha do parceiro", "tipo": "comum" },
+  { "texto": "Mande um olhar bem provocante", "tipo": "comum" },
+  { "texto": "Simule um beijo de cinema", "tipo": "comum" },
+  { "texto": "Imite um gemido de prazer", "tipo": "comum" },
+  { "texto": "Escolha uma parte do corpo do parceiro e elogie com desejo", "tipo": "comum" },
+  { "texto": "Faça um carinho nos cabelos do parceiro", "tipo": "comum" },
+  { "texto": "Descreva uma cena erótica imaginária", "tipo": "comum" },
+  { "texto": "Morda levemente o lábio do parceiro", "tipo": "comum" },
+  { "texto": "Toque o parceiro sem usar as mãos", "tipo": "comum" },
+  { "texto": "Deite no colo do parceiro e olhe nos olhos", "tipo": "comum" },
+  { "texto": "Acaricie as costas do parceiro com as unhas", "tipo": "comum" },
+  { "texto": "Fale algo picante com voz baixa", "tipo": "comum" },
+  { "texto": "Beije o corpo do parceiro em 3 lugares diferentes", "tipo": "comum" },
+  { "texto": "Descreva em detalhes seu beijo ideal", "tipo": "comum" },
+  { "texto": "Simule uma cena quente com o parceiro", "tipo": "comum" },
+  { "texto": "Faça um elogio ousado", "tipo": "comum" },
+  { "texto": "Tire uma peça de roupa com estilo", "tipo": "comum" },
+  { "texto": "Faça um gesto que provoque desejo", "tipo": "comum" },
+  { "texto": "Massageie os pés do parceiro", "tipo": "comum" },
+  { "texto": "Beije com intensidade por 10 segundos", "tipo": "comum" },
+  { "texto": "Deixe o parceiro te guiar por 1 minuto", "tipo": "comum" },
+  { "texto": "Sente no colo do parceiro por 1 rodada", "tipo": "comum" },
+  { "texto": "Fale ao pé do ouvido o que você está desejando agora", "tipo": "comum" },
+  { "texto": "Imite uma cena de filme sensual", "tipo": "comum" },
+  { "texto": "Beije o parceiro como se fosse a última vez", "tipo": "comum" },
+  { "texto": "Acaricie o parceiro por 60 segundos", "tipo": "comum" },
+  { "texto": "Fale o que mais te excita", "tipo": "comum" },
+  { "texto": "Fique abraçado ao parceiro até a próxima rodada", "tipo": "comum" },
+  { "texto": "Simule uma dança colada com o parceiro", "tipo": "comum" },
+  { "texto": "Faça carinho no rosto do parceiro", "tipo": "comum" },
+  { "texto": "Diga o que mais gosta no corpo do parceiro", "tipo": "comum" },
+  { "texto": "Beije com os olhos vendados", "tipo": "comum" },
+  { "texto": "Lamba o pescoço do parceiro", "tipo": "comum" },
+  { "texto": "Toque o parceiro apenas com os lábios", "tipo": "comum" },
+  { "texto": "Reencene um momento íntimo marcante", "tipo": "comum" },
+  { "texto": "Fale baixinho algo proibido", "tipo": "comum" },
+  { "texto": "Sente no colo e faça um carinho no cabelo", "tipo": "comum" },
+  { "texto": "Aproxime o rosto do parceiro e pare antes do beijo", "tipo": "comum" },
+  { "texto": "Use uma voz bem sexy e diga algo provocante", "tipo": "comum" },
+  { "texto": "Feche os olhos e receba um beijo onde o parceiro quiser", "tipo": "comum" },
+  { "texto": "Beije devagar e prolongadamente", "tipo": "comum" },
+
+  { "texto": "Todos devem ficar apenas com roupa íntima", "tipo": "especial" },
+  { "texto": "O próximo beijo deve ser dado na frente de todos", "tipo": "especial" },
+  { "texto": "Troquem de lugar e sentem-se no colo do parceiro", "tipo": "especial" },
+  { "texto": "Quem estiver com menos roupa dá a próxima ordem", "tipo": "especial" },
+  { "texto": "Todos fecham os olhos até a próxima rodada", "tipo": "especial" },
+  { "texto": "Troque de parceiro para esta rodada", "tipo": "especial" },
+  { "texto": "Todos devem dar um beijo coletivo (um em cada)", "tipo": "especial" },
+  { "texto": "O parceiro deve vendar seus olhos e te surpreender", "tipo": "especial" },
+  { "texto": "O mais ousado dá a próxima carta", "tipo": "especial" },
+  { "texto": "Troquem uma peça de roupa entre si", "tipo": "especial" },
+  { "texto": "Liberado toque em qualquer parte por 30 segundos", "tipo": "especial" },
+  { "texto": "Todos devem escolher alguém para beijar", "tipo": "especial" },
+  { "texto": "Escolha um parceiro para cumprir um desejo seu", "tipo": "especial" },
+  { "texto": "Liberado beijo onde quiser", "tipo": "especial" },
+  { "texto": "Quem puxar essa carta escolhe qualquer desafio anterior", "tipo": "especial" },
+  { "texto": "A próxima rodada será em silêncio total", "tipo": "especial" },
+  { "texto": "Todo mundo deita e um faz carinho em todos", "tipo": "especial" },
+  { "texto": "O jogo pausa e os parceiros têm 3 minutos de liberdade", "tipo": "especial" },
+  { "texto": "Todos se olham intensamente por 1 minuto", "tipo": "especial" },
+  { "texto": "Todo mundo troca de lugar com quem estiver ao lado", "tipo": "especial" },
+  { "texto": "Quem estiver com mais peças de roupa tira duas", "tipo": "especial" },
+  { "texto": "O último a ter tirado peça agora tira mais uma", "tipo": "especial" },
+  { "texto": "Todos devem dançar sensualmente por 1 minuto", "tipo": "especial" },
+  { "texto": "Quem puxar essa carta dá uma ordem especial a alguém", "tipo": "especial" },
+  { "texto": "Todos ficam de olhos vendados até a próxima especial", "tipo": "especial" },
+
+  { "texto": "Acaricie uma parte do corpo do parceiro sem dizer qual", "tipo": "comum" },
+  { "texto": "Escolha um local proibido para ser beijado", "tipo": "comum" },
+  { "texto": "Simule um beijo no ar", "tipo": "comum" },
+  { "texto": "Morda levemente uma parte do corpo do parceiro", "tipo": "comum" },
+  { "texto": "Sente-se no colo e sussurre algo quente", "tipo": "comum" },
+  { "texto": "Descreva um sonho sensual que já teve", "tipo": "comum" },
+  { "texto": "Beije sem usar os lábios", "tipo": "comum" },
+  { "texto": "Escolha uma parte do seu corpo para ser acariciada", "tipo": "comum" },
+  { "texto": "Descreva o que você faria se estivessem a sós agora", "tipo": "comum" },
+  { "texto": "Finja que está sendo seduzido e reaja", "tipo": "comum" },
+  { "texto": "Fique bem perto do parceiro sem encostar", "tipo": "comum" },
+  { "texto": "Provoque o parceiro sem dizer uma palavra", "tipo": "comum" },
+  { "texto": "Passe os dedos nos lábios do parceiro", "tipo": "comum" },
+  { "texto": "Escolha uma música sensual e dance junto", "tipo": "comum" },
+  { "texto": "Finja que vai beijar, mas pare antes", "tipo": "comum" },
+  { "texto": "Diga o que mais te atrai no parceiro", "tipo": "comum" },
+  { "texto": "Escolha um local do corpo para um beijo molhado", "tipo": "comum" },
+  { "texto": "Simule um strip-tease com roupa", "tipo": "comum" },
+  { "texto": "Provoque o parceiro com uma pergunta ousada", "tipo": "comum" },
+  { "texto": "Sente no chão e peça carinho", "tipo": "comum" }
 ]
