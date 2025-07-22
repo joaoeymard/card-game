@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const cardTypeElement = document.getElementById("card-type")
   const nextCardButton = document.getElementById("next-card")
   const gameEndElement = document.getElementById("game-end")
-  const playAgainButton = document.getElementById("play-again")
   const deckTitleElement = document.getElementById("deck-title")
 
   // Variáveis do jogo
@@ -23,28 +22,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Configurar o título e estilo do baralho
   switch (deckName) {
-    case "sensual":
-      deckTitle = "Baralho Sensual"
-      document.body.classList.add("sensual-deck")
-      break
-    case "infantil":
-      deckTitle = "Baralho Infantil"
-      document.body.classList.add("infantil-deck")
+    case "malvadao":
+      deckTitle = "Malvadão"
+      document.body.classList.add("malvadao-deck")
       break
     case "quebra-gelo":
-      deckTitle = "Baralho Quebra-gelo"
+      deckTitle = "Quebra-gelo"
       document.body.classList.add("quebra-gelo-deck")
       break
     case "casal":
-      deckTitle = "Baralho Casal"
+      deckTitle = "Casal"
       document.body.classList.add("casal-deck")
       break
     case "familia":
-      deckTitle = "Baralho Família"
+      deckTitle = "Família"
       document.body.classList.add("familia-deck")
       break
     default:
-      deckTitle = "Baralho de Cartas"
+      deckTitle = "---"
   }
 
   deckTitleElement.textContent = deckTitle
@@ -55,7 +50,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // Event listeners
   cardElement.addEventListener("click", flipCard)
   nextCardButton.addEventListener("click", nextCard)
-  playAgainButton.addEventListener("click", resetGame)
 
   // Funções
   function loadDeck() {
@@ -125,17 +119,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 250);
   }
 
-  function showGameEnd() {
-    gameEndElement.classList.remove("hidden")
-  }
-
   function resetGame() {
     currentCardIndex = 0
     isCardFlipped = false
     activeSpecialCards = {}
 
     cardElement.classList.remove("flipped")
-    gameEndElement.classList.add("hidden")
 
     cardTextElement.textContent = "Clique para revelar"
     cardTypeElement.textContent = ""

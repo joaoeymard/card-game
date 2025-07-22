@@ -1,42 +1,52 @@
 [
-  {
-    "texto": "Conte algo sobre você que ninguém sabe",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Qual seu maior sonho?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Se pudesse viajar para qualquer lugar, onde seria?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Qual sua comida favorita?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Todos devem contar uma curiosidade sobre si",
-    "tipo": "especial"
-  },
-  {
-    "texto": "Qual seu filme favorito?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Conte uma história engraçada da sua infância",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Qual seu maior medo?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Se pudesse ter um superpoder, qual seria?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Qual foi a coisa mais corajosa que você já fez?",
-    "tipo": "comum"
-  }
+  { "texto": "Qual é a história por trás do seu nome?", "tipo": "comum" },
+  { "texto": "Se você fosse um emoji, qual seria e por quê?", "tipo": "comum" },
+  { "texto": "Qual seria o título da sua autobiografia?", "tipo": "comum" },
+  { "texto": "Você prefere praia ou montanha? Explique sua escolha.", "tipo": "comum" },
+  { "texto": "Qual foi o último filme ou série que você viu e gostou?", "tipo": "comum" },
+  { "texto": "Se pudesse ter qualquer superpoder, qual seria?", "tipo": "comum" },
+  { "texto": "Conte uma curiosidade aleatória sobre você.", "tipo": "comum" },
+  { "texto": "Qual música te define hoje?", "tipo": "comum" },
+  { "texto": "Se você fosse um animal, qual seria?", "tipo": "comum" },
+  { "texto": "Fale uma mania engraçada que você tem.", "tipo": "comum" },
+  { "texto": "Qual foi sua primeira impressão de quem está à sua esquerda?", "tipo": "comum" },
+  { "texto": "Qual foi o melhor conselho que você já recebeu?", "tipo": "comum" },
+  { "texto": "Você prefere acordar cedo ou dormir tarde?", "tipo": "comum" },
+  { "texto": "Qual lugar do mundo você mais gostaria de conhecer?", "tipo": "comum" },
+  { "texto": "Qual é seu talento ou habilidade secreta?", "tipo": "comum" },
+  { "texto": "Compartilhe uma meta que você quer realizar ainda este ano.", "tipo": "comum" },
+  { "texto": "Fale algo que todo mundo ama, mas você não gosta.", "tipo": "comum" },
+  { "texto": "Se você tivesse que viver em um filme, qual seria?", "tipo": "comum" },
+  { "texto": "Conte um momento vergonhoso que hoje você acha engraçado.", "tipo": "comum" },
+  { "texto": "Qual personagem de desenho animado te representa?", "tipo": "comum" },
+  { "texto": "Você é mais racional ou emocional? Dê um exemplo.", "tipo": "comum" },
+  { "texto": "Se fosse criar um bordão pessoal, qual seria?", "tipo": "comum" },
+  { "texto": "Qual app você mais usa (além de WhatsApp)?", "tipo": "comum" },
+  { "texto": "O que você costuma fazer quando está estressado?", "tipo": "comum" },
+  { "texto": "Descreva seu dia ideal em poucas palavras.", "tipo": "comum" },
+  { "texto": "Qual comida você não vive sem?", "tipo": "comum" },
+  { "texto": "Se tivesse que mudar de nome, qual escolheria?", "tipo": "comum" },
+  { "texto": "Você é mais do time memes ou frases motivacionais?", "tipo": "comum" },
+  { "texto": "Fale um sonho maluco que você já teve dormindo.", "tipo": "comum" },
+  { "texto": "Complete: 'Se eu tivesse coragem, eu...'", "tipo": "comum" },
+  { "texto": "Se você fosse um sabor de sorvete, qual seria?", "tipo": "comum" },
+  { "texto": "Qual foi o último mico que você pagou?", "tipo": "comum" },
+  { "texto": "Qual emoji você mais usa e em que situação?", "tipo": "comum" },
+  { "texto": "Se você pudesse jantar com qualquer pessoa, viva ou morta, quem seria?", "tipo": "comum" },
+  { "texto": "Você é mais do tipo que planeja ou improvisa tudo?", "tipo": "comum" },
+  { "texto": "Qual foi a coisa mais aleatória que já pesquisou no Google?", "tipo": "comum" },
+  { "texto": "Se sua vida fosse um gênero de filme, qual seria?", "tipo": "comum" },
+  { "texto": "Qual seu maior talento inútil?", "tipo": "comum" },
+  { "texto": "Qual foi a última vez que você riu até chorar?", "tipo": "comum" },
+  { "texto": "O que nunca pode faltar na sua mochila ou bolsa?", "tipo": "comum" },
+  { "texto": "Você prefere perder o celular ou a carteira?", "tipo": "comum" },
+  { "texto": "Qual é seu apelido (ou já foi) e de onde veio?", "tipo": "comum" },
+  { "texto": "Se pudesse trocar de lugar com alguém por um dia, quem seria?", "tipo": "comum" },
+  { "texto": "Qual gafe social você já cometeu?", "tipo": "comum" },
+  { "texto": "Qual é o seu maior vício do momento?", "tipo": "comum" },
+  { "texto": "Se fosse abrir um negócio hoje, o que venderia?", "tipo": "comum" },
+  { "texto": "Você é mais time café, chá ou refri?", "tipo": "comum" },
+  { "texto": "Qual é sua lembrança mais engraçada da escola?", "tipo": "comum" },
+  { "texto": "Se tivesse um botão que faz qualquer coisa, o que ele faria?", "tipo": "comum" },
+  { "texto": "Qual coisa simples do dia a dia te faz feliz de verdade?", "tipo": "comum" }
 ]

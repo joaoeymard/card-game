@@ -4,7 +4,7 @@
   --text-color: #ffffff;
   --text-secondary: #b0b0b0;
   --accent-color: #8a2be2;
-  --sensual-color: #e91e63;
+  --malvadao-color: #e91e63;
   --infantil-color: #4caf50;
   --quebra-gelo-color: #2196f3;
   --casal-color: #ff9800;
@@ -59,7 +59,6 @@ header p {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 .deck-grid {
@@ -117,9 +116,9 @@ header p {
 }
 
 /* Deck Colors */
-.sensual {
-  background-color: var(--sensual-color);
-  background-image: linear-gradient(45deg, var(--sensual-color), #c2185b);
+.malvadao {
+  background-color: var(--malvadao-color);
+  background-image: linear-gradient(45deg, var(--malvadao-color), #c2185b);
 }
 
 .infantil {
@@ -156,6 +155,12 @@ header p {
   margin-bottom: 1rem;
 }
 
+.deck-title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
 .back-button {
   color: var(--text-secondary);
   text-decoration: none;
@@ -176,7 +181,7 @@ header p {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 0;
+  padding: 0;
 }
 
 .card-container {
@@ -226,6 +231,14 @@ header p {
 .card-front {
   background-color: var(--accent-color);
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-front p {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .card-pattern {
@@ -356,8 +369,8 @@ header p {
 }
 
 /* Deck-specific card styles */
-.sensual-deck .card-front {
-  background-color: var(--sensual-color);
+.malvadao-deck .card-front {
+  background-color: var(--malvadao-color);
 }
 
 .infantil-deck .card-front {
@@ -393,7 +406,7 @@ header p {
 
 @media (min-width: 1024px) {
   .deck-grid {
-    grid-template-columns: repeat(3, 1fr);
+    /* grid-template-columns: repeat(3, 1fr); */
     max-width: 900px;
   }
 

@@ -2,17 +2,26 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
   <title>Jogo de Cartas</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link type="image/png" sizes="16x16" rel="icon" href="asserts/icons/cartas-16.png"> 
+  <link type="image/png" sizes="32x32" rel="icon" href="asserts/icons/cartas-32.png"> 
+  <link type="image/png" sizes="96x96" rel="icon" href="asserts/icons/cartas-96.png">
+
+  <link rel="manifest" href="manifest.json">
 </head>
 <body>
   <div class="container game-container">
     <header class="game-header">
-      <h1 id="deck-title">Carregando...</h1>
+      <div class="deck-title-container">
+        <span>Baralho</span>
+        <h1 id="deck-title">Carregando...</h1>
+      </div>
       <a href="index.html" class="back-button">Voltar</a>
     </header>
     
@@ -21,6 +30,7 @@
         <div class="card" id="current-card">
           <div class="card-inner">
             <div class="card-front">
+              <p>Clique para revelar</p>
               <div class="card-pattern"></div>
             </div>
             <div class="card-back">
@@ -32,16 +42,7 @@
       </div>
       
       <div class="game-controls">
-        <button id="next-card" class="button">Próxima carta</button>
-      </div>
-      
-      <div id="game-end" class="game-end hidden">
-        <h2>Fim do jogo!</h2>
-        <p>Você completou todas as cartas deste baralho.</p>
-        <div class="end-buttons">
-          <button id="play-again" class="button">Jogar novamente</button>
-          <a href="index.html" class="button secondary">Escolher outro baralho</a>
-        </div>
+        <button id="next-card" class="button">Próxima Carta</button>
       </div>
     </main>
   </div>

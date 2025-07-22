@@ -1,42 +1,37 @@
 [
-  {
-    "texto": "Conte uma história da família",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Qual sua memória favorita de infância?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Dê um abraço em alguém",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Faça um elogio para cada pessoa",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Todos devem contar uma qualidade da família",
-    "tipo": "especial"
-  },
-  {
-    "texto": "Qual tradição familiar você mais gosta?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Conte uma piada",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Tirem uma foto juntos",
-    "tipo": "especial"
-  },
-  {
-    "texto": "Qual é o seu prato favorito da família?",
-    "tipo": "comum"
-  },
-  {
-    "texto": "Conte uma história engraçada sobre alguém da família",
-    "tipo": "comum"
-  }
+  { "texto": "Fale como um apresentador de TV por 1 minuto.", "tipo": "comum" },
+  { "texto": "Imite um animal e deixe o grupo adivinhar qual é.", "tipo": "comum" },
+  { "texto": "Conte uma piada (boa ou ruim, mas conte!).", "tipo": "comum" },
+  { "texto": "Fale uma palavra bem difícil e peça pra todos repetirem.", "tipo": "comum" },
+  { "texto": "Desenhe um objeto no ar com o dedo e deixe o grupo adivinhar.", "tipo": "comum" },
+  { "texto": "Cante o refrão de uma música famosa com a boca fechada.", "tipo": "comum" },
+  { "texto": "Dance como se estivesse num videoclipe por 15 segundos.", "tipo": "comum" },
+  { "texto": "Conte como foi seu dia usando só sons e gestos.", "tipo": "comum" },
+  { "texto": "Faça um elogio divertido para a pessoa à sua direita.", "tipo": "comum" },
+  { "texto": "Fale três verdades e uma mentira. O grupo tenta adivinhar qual é a mentira.", "tipo": "comum" },
+  { "texto": "Mostre sua melhor careta!", "tipo": "comum" },
+  { "texto": "Invente um apelido engraçado para quem estiver à sua esquerda.", "tipo": "comum" },
+  { "texto": "Imite um personagem de desenho animado.", "tipo": "comum" },
+  { "texto": "Fale sua comida favorita como se fosse um crítico gourmet.", "tipo": "comum" },
+  { "texto": "Conte uma história inventada em 30 segundos.", "tipo": "comum" },
+  { "texto": "Caminhe como se estivesse pisando em nuvens por 10 segundos.", "tipo": "comum" },
+  { "texto": "Invente uma nova regra para o jogo!", "tipo": "comum" },
+  { "texto": "Fale seu nome completo como se estivesse dando uma bronca em si mesmo.", "tipo": "comum" },
+  { "texto": "Finja que está num comercial de TV vendendo alguma coisa que esteja perto de você.", "tipo": "comum" },
+  { "texto": "Tente fazer um som engraçado com a boca.", "tipo": "comum" },
+  { "texto": "Fale uma palavra ao contrário e desafie o grupo a entender.", "tipo": "comum" },
+  { "texto": "Conte qual profissão você queria ter quando era criança.", "tipo": "comum" },
+  { "texto": "Fale uma frase sem abrir os dentes. O grupo precisa entender.", "tipo": "comum" },
+  { "texto": "Simule uma cena de novela com muito drama.", "tipo": "comum" },
+  { "texto": "Fale tudo em rima até sua próxima vez.", "tipo": "comum" },
+  { "texto": "Imite um bebê com fome por 20 segundos.", "tipo": "comum" },
+  { "texto": "Conte uma história usando apenas 5 palavras.", "tipo": "comum" },
+  { "texto": "Escolha um objeto e finja que é outra coisa completamente diferente.", "tipo": "comum" },
+  { "texto": "Aponte para quem você acha que dançaria melhor no TikTok.", "tipo": "comum" },
+  { "texto": "Fale como se estivesse narrando um jogo de futebol.", "tipo": "comum" },
+  { "texto": "Coloque um sapato ou objeto na cabeça e desfile como se estivesse em uma passarela de moda.", "tipo": "especial" },
+  { "texto": "Invente e cante o hino oficial da sua família agora mesmo!", "tipo": "especial" },
+  { "texto": "Fique de olhos fechados e deixe o grupo te posicionar como uma estátua. Permaneça assim até a próxima rodada.", "tipo": "especial" },
+  { "texto": "Finja que está preso em câmera lenta e fale, ande e gesticule assim por 1 minuto.", "tipo": "especial" },
+  { "texto": "Faça um discurso sério como se fosse candidato a 'Presidente da Bagunça' e conquiste os votos do grupo.", "tipo": "especial" }
 ]

@@ -1,0 +1,20 @@
+{
+  "name": "Jogo Divertido de Cartas",
+  "short_name": "Baralho de Cartas",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "asserts/icons/cartas-64.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "asserts/icons/cartas-96.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
